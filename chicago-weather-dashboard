@@ -1,0 +1,5 @@
+chicago-weather-dashboard/
+├── streamlit_app.py
+├── requirements.txt
+├── .gitignore
+├── README.md  (optional but good practice)
