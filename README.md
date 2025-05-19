@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 🌦️ Chicago Weather Data Visualization Dashboard
 
