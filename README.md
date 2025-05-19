@@ -92,7 +92,4 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 Developed by **[Vraj Deriya](https://github.com/vrajderiya)**
 For feedback, ideas, or collaboration, feel free to reach out via GitHub!
 
-```
 
----
-```
