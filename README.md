@@ -16,7 +16,7 @@ streamlit run streamlit_app.py
 
 ## 🧰 Features
 
-* 📈 Interactive line charts and bar plots of weather metrics
+* 📈 Interactive visualization plots of weather metrics
 * 📅 Date filtering to explore trends over time
 * 🌡️ Visualization of temperature, precipitation, and other key metrics
 * 📍 Chicago-specific analysis
