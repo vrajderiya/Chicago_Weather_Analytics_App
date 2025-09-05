@@ -75,6 +75,12 @@ Weather data used in this project is focused on the Chicago region. Data is clea
 
 ---
 
+##  Link for the App
+
+https://huggingface.co/spaces/vrajderiya/Data_Viz_Project
+
+---
+
 ## 📸 Screenshots
 
 <img width="1314" height="706" alt="Screenshot 2025-09-05 at 3 10 26 PM" src="https://github.com/user-attachments/assets/75be9c7a-d541-4e0a-9aac-18619ae046e3" />
