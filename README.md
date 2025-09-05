@@ -77,7 +77,10 @@ Weather data used in this project is focused on the Chicago region. Data is clea
 
 ## 📸 Screenshots
 
-> *(You can include screenshots here after running the app to visually demonstrate your dashboard UI.)*
+<img width="1314" height="706" alt="Screenshot 2025-09-05 at 3 10 26 PM" src="https://github.com/user-attachments/assets/75be9c7a-d541-4e0a-9aac-18619ae046e3" />
+<img width="1283" height="677" alt="Screenshot 2025-09-05 at 3 11 23 PM" src="https://github.com/user-attachments/assets/d0ffbc12-7fca-4d4e-abb8-6c76d4386c33" />
+<img width="1283" height="566" alt="Screenshot 2025-09-05 at 3 12 00 PM" src="https://github.com/user-attachments/assets/ed903fcc-ede3-486d-819a-b30c00f3bd44" />
+<img width="1283" height="499" alt="Screenshot 2025-09-05 at 3 12 27 PM" src="https://github.com/user-attachments/assets/4a5e3849-ea0c-4a64-b0c6-4a4ac20f4140" />
 
 ---
 
