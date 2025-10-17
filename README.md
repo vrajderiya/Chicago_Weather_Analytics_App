@@ -1,4 +1,3 @@
-````markdown
 # 🌦️Chicago Weather Analytics App 
 
 An interactive data visualization dashboard built using **Streamlit** to explore and analyze **Chicago weather data**. This project aims to provide clear, insightful visuals for understanding weather patterns and trends in the city of Chicago.
